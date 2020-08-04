@@ -9,7 +9,7 @@
 
 Meu nome é Walter Vieira da Cunha Neto, me considero um apaixonado pela Stack [NodeJS | ReactJS | ReactNative].
 - :blue_heart: Techs: React.js, React Native, Node.js, Docker, JavaScript, TypeScript, entre outras.
-- Atualmente buscando aprimorar meus conhecimentos na stack para poder trabalhar com essa maravilha :red_heart:
+- Atualmente buscando aprimorar meus conhecimentos na stack para poder trabalhar com essa maravilha :heart:
 
 Possui algum projeto da stack e precisa de ajuda? Porfavor entre em contato, ficarei feliz em ajudar.
 
