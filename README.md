@@ -6,11 +6,12 @@
 
 ## Olá! 👋
 
-Meu nome é Walter Vieira da Cunha Neto, me considero um apaixonado pela Stack [NodeJS | ReactJS | ReactNative].
-- Techs: React.js, React Native, Node.js, Docker, JavaScript, TypeScript, entre outras.
-- Atualmente buscando aprimorar meus conhecimentos na stack para poder trabalhar com essa maravilha :heart:
+Meu nome é Walter Vieira da Cunha Neto, me considero um apaixonado por desenvolvimento web.
+- Techs: Java, Kotlin, Javascript, Typescript, React.js, Node.js, Spring, Docker, entre outras.
+- Atualmente buscando aprimorar meus conhecimentos para me tornar um web developer "completo", visando tanto backend quanto frontend.
+** Sem pressa, um passo de cada vez **
 
-Possui algum projeto da stack e precisa de ajuda? Porfavor entre em contato, ficarei feliz em ajudar.
+Possui algum projeto e precisa de ajuda? Porfavor entre em contato, ficarei feliz se puder ajudar.
 
 ---
 
@@ -19,18 +20,3 @@ Possui algum projeto da stack e precisa de ajuda? Porfavor entre em contato, fic
   <br>
 
   [![Github Status](https://github-readme-stats.vercel.app/api?username=wvcneto&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/wvcneto/wvcneto)
-
-## Algumas tecnologias
-
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/dockerhub.svg" alt="dockerhub" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/desktop.svg" alt="desktop" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/web.svg" alt="web" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/mobile.svg" alt="mobile" style="vertical-align:top; margin:4px">
-</details>
