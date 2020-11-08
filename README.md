@@ -21,8 +21,8 @@ Possui algum projeto e precisa de ajuda? Porfavor entre em contato, ficarei feli
   <center>
   <table>
     <tr>
-       <td><img width="390px" align="left" src="https://github-readme-stats.vercel.app/api?username=TalissonMelo&theme=&show_icons=true" /></td>
-       <td><img width="390px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalissonMelo&hide=html&layout=compact&theme=" /></td>
+       <td><img width="390px" align="left" src="https://github-readme-stats.vercel.app/api?username=wvcneto&theme=&show_icons=true" /></td>
+       <td><img width="390px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wvcneto&hide=html&layout=compact&theme=" /></td>
     </tr>  
   </table>
   </center> 
