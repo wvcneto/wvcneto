@@ -7,7 +7,7 @@
 ## Olá! 👋
 
 Meu nome é Walter Vieira da Cunha Neto, me considero um apaixonado por desenvolvimento web.
-- Techs: Java, Kotlin, Javascript, Typescript, React.js, Node.js, Spring, Docker, entre outras.
+- Techs[:heart:]: Javascript, Typescript, React.js, Node.js, Next.js, entre outras.
 - Atualmente buscando aprimorar meus conhecimentos para me tornar um web developer "completo", visando tanto backend quanto frontend.
 ** Sem pressa, um passo de cada vez **
 
