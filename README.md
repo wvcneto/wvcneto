@@ -6,9 +6,8 @@
 
 ## Olá! 👋
 
-Meu nome é Walter Vieira da Cunha Neto, me considero um apaixonado por desenvolvimento web.
-- Atualmente buscando aprimorar meus conhecimentos para me tornar um web developer "completo", visando tanto backend quanto frontend.
-** Sem pressa, um passo de cada vez **
+Meu nome é Walter Vieira da Cunha Neto, me considero um apaixonado por tecnologia.
+- Atualmente meu foco é a medicina, e atualmente desenvolvo apenas alguns projetos próprios. Não estou interessado em trabalhar em nenhuma empresa de TI.
 
 Possui algum projeto e precisa de ajuda? Porfavor entre em contato, ficarei feliz se puder ajudar.
 
